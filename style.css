@@ -94,6 +94,7 @@ body{
     position: absolute;
     right: 30px;
     border: none;
+    
 }
 .form .form-btn:hover{
     background-color: hsl(0, 80%, 86%);
